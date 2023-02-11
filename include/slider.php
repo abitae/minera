@@ -10,9 +10,8 @@
                     <div class="row">
                     <div class="col-sm-12 col-md-12 col-lg-12 col-xl-8">
                         <div class="slide__content">
-                        <h2 class="slide__title">TRAVERTINO (MARMOL)</h2>
-                        <p class="slide__desc">PRODUCCION DE: Oxido de Calcio e Hidroxido de Calcio
-                            y derivados de travertino (Marmol).</p>
+                        <h2 class="slide__title">PRODUCCION DE CAL</h2>
+                        <p class="slide__desc">Oxido de Calcio e Hidroxido de Calcio.</p>
                         <a href="services.html" class="btn btn__white btn__icon btn__lg mr-30">
                             <span>Nuestros Servicios</span><i class="icon-arrow-right"></i>
                         </a>
